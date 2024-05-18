@@ -1,3 +1,5 @@
 # RMASProjekat
 Projekat iz Razvoja Mobilnih aplikacija...
-Tema:
+Tema: Mladi i Zurke/Desavanja u njihovoj okolini.
+Cilj ove aplikacije je da dozvoli mladima da naprave svoj nalog na aplikaciji i pomocu njega mogu da dobijaju obavestenja i informacije o dogadjajima koji se nalaze u njihovoj okolini. Moci ce da podese filtriranje dogadjaja tako da dobiju samo informacije i obavestenja o stvarima koje ih zanimaju(na primer vole zurke na kojima ima uzivo muzika i ne zele da ide na event-ima koji to nemaju). Dinamicki ce se pratiti njihova lokacija i uporedjivace se sa lokacijama desavanja u odredjenom okrugu(na primer na teritoriji jednog grada). Moci ce da ucestvuju u rangiranju i ocenjivanju dogadjaja i mesta koja su posetili kao i da ostave komentar o tome kako su se proveli i kakva je bila atmosfera.Osim ovoga moci ce i da preporucuju odredjene lokacije/event-e drugim korisnicima. Osim toga svaki dogadjaj ce imati ispod sebe album slika sa provoda mladih na tom mestu. Korisnici se rangiraju(tj. dobijaju bodove) po broju zurka koje su posetili kao i po broju slika koje su napravili na odredjenom event-u.
+Sa druge strane moci ce da se registruju i korisnici koji najavljuju i organizuju zurke/dogadjaje(event-e). 
